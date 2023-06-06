@@ -31,12 +31,16 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![empd10 model](https://github.com/Subalakshmisuresh/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/121957896/ad9425dd-1130-446a-866d-c5472cbfc77c)
+
 
 ### Output:
+![empd10 ss](https://github.com/Subalakshmisuresh/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/121957896/6c1a82d3-95a8-408d-913e-49cb95f4d365)
 
 
-### Name:
-### Register Number:
+
+### Name: ABINAYA S
+### Register Number: 212222230002
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.

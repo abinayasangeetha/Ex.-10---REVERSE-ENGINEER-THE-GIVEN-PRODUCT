@@ -31,11 +31,10 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-![empd10 model](https://github.com/Subalakshmisuresh/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/121957896/ad9425dd-1130-446a-866d-c5472cbfc77c)
-
+![EMPD MODEL](https://github.com/abinayasangeetha/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119393675/fada3fcf-d435-46d6-a975-97837da6fd33)
 
 ### Output:
-![empd10 ss](https://github.com/Subalakshmisuresh/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/121957896/6c1a82d3-95a8-408d-913e-49cb95f4d365)
+![PENSTAND](https://github.com/abinayasangeetha/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119393675/8071a6ef-a7e6-4bce-9fd5-5f24e7c5ec80)
 
 
 

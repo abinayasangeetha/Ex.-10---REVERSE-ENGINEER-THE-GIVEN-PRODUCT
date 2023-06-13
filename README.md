@@ -28,10 +28,10 @@
   ###   ●	Load your filament into the required extruder as per the requirement.
   ###   ●	Wait until the nozzle & bed plate comes into the required temperature.
   ###   ●	Close the doors of the 3d printer.
-  ###   ●	Open the file from the USB storage and select the Print option.
+   ##   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-![EMPD MODEL](https://github.com/abinayasangeetha/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119393675/fada3fcf-d435-46d6-a975-97837da6fd33)
+![out](https://github.com/abinayasangeetha/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119393675/739a3f5f-8dda-4ff6-9af7-02a653e16245)
 
 ### Output:
 ![PENSTAND](https://github.com/abinayasangeetha/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119393675/8071a6ef-a7e6-4bce-9fd5-5f24e7c5ec80)
